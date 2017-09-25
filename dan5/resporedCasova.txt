@@ -1,0 +1,4 @@
+1. Intervali
+2. Bacanje Kockica
+3. Local storage
+4. Save bacanje kroz local storage

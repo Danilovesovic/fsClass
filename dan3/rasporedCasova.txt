@@ -1,0 +1,4 @@
+1.Scope
+2.if statements - switch statements - logicki operateri
+3. for loops
+4. vezbe

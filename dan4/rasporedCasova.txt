@@ -1,0 +1,4 @@
+1. Alert,Promt,Confirm,Console
+2. Vezbe sa prvim casom
+3. Math Object
+4. Vezba sa Math Objektom
