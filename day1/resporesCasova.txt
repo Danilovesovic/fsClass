@@ -1,0 +1,8 @@
+1. Upoznvanje
+2. Chrome , Atom, Accounts, Kako Uciti
+3. Predavanje o javascriptu (client vs server)
+4. script tagovi i implementiranje javascripta (<nosccript></noscript> obicno vodi na externu stranicu ); 
+// CHROME //
+Settings
+Privacy
+ContentMenagment

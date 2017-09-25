@@ -1,0 +1,4 @@
+1. Sintaksa,Leksicka struktura,white space,statements,semicolon,case sensitive,varijable,operateri
+2. Data types
+3. Data types
+4. Data types
